@@ -31,15 +31,6 @@ Soy un desarrollador junior con ganas de aprender y crecer en el mundo del desar
 
 Aquí comparto proyectos personales, ideas innovadoras y código en el que estoy trabajando. Siempre estoy abierto a feedback y colaboración. ¡Echa un vistazo y dime qué opinas! 😃
 
-📫 Contacto
-
-📧 Email
-
-💼 LinkedIn
-
-🌎 Portafolio
-
-⭐ Si te gusta mi trabajo, no dudes en seguirme y contribuir con ideas o sugerencias. ¡Construyamos juntos algo genial! 🚀
 
 
 <!--
